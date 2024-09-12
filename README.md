@@ -25,17 +25,25 @@ Our objective is to analyze the dataset to identify key factors that influence w
 1) Clone the repository.
 2) Review the BankDataset Description.docx for a comprehensive understanding of the data attributes and their implications.
 3) Explore the Bank Marketing Data Assessment - RKT.ipynb Jupyter notebook to follow the analysis process:
+   
 	Data Cleaning and Integrity Checks
+
 	Trend Analysis (Referencing Tableau Workbook)
+
 	A Deeper Dive with Machine Learning
+
 	Key Findings and Insights
+
 	Actionable Recommendations
+
 	Presentation Information
+
 	Appendix
-4) Examine the Tableau workbook Rocket_Mortgage_Assessment.twbx for visual insights.
+5) Examine the Tableau workbook Rocket_Mortgage_Assessment.twbx for visual insights.
 
 📜 Conclusion
 The code allows for drawing insights that have been highlighted in the jupyter notebook.
+
 The presentation should be ready for the day of the interview too!
 
 
