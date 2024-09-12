@@ -10,10 +10,15 @@ Our objective is to analyze the dataset to identify key factors that influence w
 
 🛠 Project Files
 -Bank Marketing Data Assessment - RKT Mortgage.ipynb: Jupyter notebook with detailed analysis steps.
+
 -BankDataset Description.docx: Detailed description of the dataset and attributes.
+
 -BankDataset.csv: Raw dataset file.
+
 -cleaned_bank_data.xlsx: Dataset used for creating visualizations and models after initial cleaning.
+
 -Rocket_Mortgage_Assessment.twbx: Tableau workbook containing exploratory worksheets and interactive dashboards.
+
 -README.md: Documentation and overview of the project.
 
 🚀 How to Use This Repo
